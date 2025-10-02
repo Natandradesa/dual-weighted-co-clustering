@@ -1,0 +1,12 @@
+,m,n
+synthetic,1.245,1.019
+wdbc,1.025,1.002
+vehicle,1.067,1.039
+chemical_composition,1.003,1.07
+vertebral_column_2C,1.342,1.019
+vertebral_column,1.022,1.04
+breast_tissue,1.314,1.023
+abalone,1.326,1.003
+fruit,1.172,1.005
+gtzan,1.04,1.035
+tox_171,1.33,1.219
