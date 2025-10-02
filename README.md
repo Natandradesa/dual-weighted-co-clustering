@@ -22,7 +22,7 @@ The code is organized as follows:
 
 * The file `metrics.py` contains the implementation of some evaluation metrics. 
 
-* The file `practical_example.ipynb` contains a demo of the proposed algorithm DWGKFDK.
+* The file `practical_example.ipynb` contains a demonstration of the use of the proposed algorithm DWGKFDK.
 
 * The file `results_real_analysis.ipynb` contains the analysis of the results obtained from the application to real datasets.
 
