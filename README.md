@@ -6,31 +6,35 @@ This repository contains the official implementation of the article [A Dual-Weig
 
 The code is organized as follows:
 
-* The folder **algoritms** contains the implementation of the algoritms used in the experiments. The implementation od the proposed method is in the file double_subspace_coclustering.py.
+* The folder **algorithms** contains the implementation of the algorithms used in the experiments. The implementation of the proposed method is in the file `double_subspace_coclustering.py`.
 
-* The folder **configurations** contains the hyperparameter setting of the algorithms.
+* The folder **configurations** contains the hyperparameter settings of the algorithms.
 
-* The folder **datasets** containd the real datasets used in the experiments.
+* The folder **datasets** contains the real datasets used in the experiments.
 
 * The folder **results_real** contains the results of the experiments with real datasets.
 
-* The folder **results_synthetic** contains the results of the Monte Carlo simulation.
+* The folder **results_synthetic** contains the results of the Monte Carlo simulations.
 
-* The file aplications_real.ipynb cotains the code for the application on real datasets.
+* The file `applications_real.ipynb` contains the code for the application on real datasets.
 
-* The file data_generation.py contains the code to denerated the synthetic datasets used in the Monte Carlo simulation.
+* The file `data_generation.py` contains the code to generate the synthetic datasets used in the Monte Carlo simulations.
 
-* The file metrics.py contains the implementation of some evaluation metrics. 
+* The file `metrics.py` contains the implementation of some evaluation metrics. 
 
-* The file practical_example.ipynb contains a demo of the proposed algorithm DWGKFDK.
+* The file `practical_example.ipynb` contains a demo of the proposed algorithm DWGKFDK.
 
-* The file results_real_analysis.ipynb contains the analisysof the results obtained in the application to real datasets.
+* The file `results_real_analysis.ipynb` contains the analysis of the results obtained from the application to real datasets.
 
-* The file simulation.ipynb contains the code of the Monte Carlo simulation.
+* The file `simulation.ipynb` contains the code for the Monte Carlo simulation.
 
 ## Requirements
 
-The codes in this repository requires numpy, scipy, scikit-learn, matplotlib, pandas, seaborn and jupyter. The Environment can be installed using the command: pip install -r requirements.txt
+The code in this repository requires `numpy`, `scipy`, `scikit-learn`, `matplotlib`, `pandas`, `seaborn`, and `jupyter`.  
+The environment can be installed using the command:
+
+pip install -r requirements.txt
+
 
 ## Citation 
 
