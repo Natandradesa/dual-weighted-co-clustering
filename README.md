@@ -18,7 +18,7 @@ The code is organized as follows:
 
 * The file `applications_real.ipynb` contains the code for the application on real datasets.
 
-* The file `data_generation.py` contains the code to generate the synthetic datasets used in the Monte Carlo simulations.
+* The file `data_generation.py` contains the code to generate the synthetic datasets used in the Monte Carlo simulation.
 
 * The file `metrics.py` contains the implementation of some evaluation metrics. 
 
